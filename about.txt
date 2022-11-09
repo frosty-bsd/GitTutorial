@@ -5,3 +5,7 @@ TO DO LIST
 3. Practice Code
 4. Finish Problem Sets
 5. Study books
+6. Solve puzzles
+7. Complete LeetCode Problems
+8. Configure nvim
+9. Configure terminal
